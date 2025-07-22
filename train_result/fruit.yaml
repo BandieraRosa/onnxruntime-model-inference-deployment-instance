@@ -1,0 +1,10 @@
+ # dataset path 数据集路径
+train: C:/Users/Bandiera/Desktop/model/ultralytics-main/Mango_Banana_Dataset/train/images
+val: C:/Users/Bandiera/Desktop/model/ultralytics-main/Mango_Banana_Dataset/test/images
+test: C:/Users/Bandiera/Desktop/model/ultralytics-main/Mango_Banana_Dataset/test/images
+ 
+# number of classes 类别数
+nc: 4
+ 
+# class names 数据类名称
+names: ['Raw_Banana','Raw_Mango','Ripe_Banana','Ripe_Mango']
